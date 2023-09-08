@@ -1,5 +1,4 @@
 # Chinna
-# Potti
 # Prabhu
 # Patchi
 # Pranalu
